@@ -7,10 +7,10 @@ Interested in machine learning, statistical modelling, and AI research.
 
 ## Skills
 
-**ML & Data** — scikit-learn · pandas · numpy · matplotlib · statistics  
-**Frontend** — React · HTML · CSS · JavaScript  
-**Languages** — Python · Java · JavaScript  
-**Tools** — Git · Google Colab · VS Code · Figma
+**ML & Data** - scikit-learn · pandas · numpy · matplotlib · statistics  
+**Frontend** - React · HTML · CSS · JavaScript  
+**Languages** - Python · Java · JavaScript  
+**Tools** - Git · Google Colab · VS Code · Figma
 
 ---
 
