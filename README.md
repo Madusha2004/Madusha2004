@@ -2,7 +2,7 @@
 
 Computer Science undergraduate at IIT Sri Lanka (University of Westminster, London)  
 Interested in machine learning, statistical modelling, and AI research.  
-I enjoy working close to the fundamentals — understanding why models work,  
+I enjoy working close to the fundamentals; understanding why models work,  
 not just how to use them.
 
 ---
