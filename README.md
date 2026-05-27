@@ -19,3 +19,9 @@ Computer Science undergraduate at IIT Sri Lanka (University of Westminster, Lond
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/madusha-kolambage-282770333/) · [Email](mailto:kolambagemadusha@gmail.com)
+
+
+
+---
+
+![Snake animation](https://raw.githubusercontent.com/Madusha2004/Madusha2004/output/github-contribution-grid-snake-dark.svg)
